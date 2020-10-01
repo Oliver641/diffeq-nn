@@ -11,5 +11,5 @@ It currently contains 2 folders:
   This contains a 'closed book' replication of the architecture found within [PDE-Net](https://arxiv.org/abs/1710.09668): Learning PDEs from Data, 
   a paper by Zichao Long, Yiping Lu, Xianzhong Ma, and Bin Dong.
   The notebooks found in this folder are me recreating their work from this paper without looking at their code as a learning exercise.  You can compare it to the authors' 
-  code [here](https://github.com/ZichaoLong/PDE-Net).
+  code [here](https://github.com/ZichaoLong/PDE-Net/tree/PDE-Net).
   This involved creating a custom layer/RNNCell within Tensorflow 2, the DeltaT block.  Look at [pde/2_pde_net_replication.ipynb](https://github.com/Oliver641/diffeq-nn/blob/master/pde/2_pde_net_replication.ipynb) in order to see this.
